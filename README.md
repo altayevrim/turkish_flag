@@ -9,10 +9,11 @@ It generates the Turkish flag according to the laws.
 
 ## Screenshots
 
-![Preview 1](https://github.com/altayevrim/turkish_flag/blob/main/ss/1.jpg?raw=true)
-Portrait Mode
+![Preview 1](https://github.com/altayevrim/turkish_flag/blob/main/ss/1.jpg?raw=true)  
+Portrait Mode  
+
 ---
 
   
-![Preview 2](https://github.com/altayevrim/turkish_flag/blob/main/ss/2.jpg?raw=true)
+![Preview 2](https://github.com/altayevrim/turkish_flag/blob/main/ss/2.jpg?raw=true)  
 Landscape Mode  
